@@ -14,7 +14,13 @@
 ||Array|Linked List|
 |---|:-:|:-:|
 |**記憶體空間**|必須連續|可以不連續|
-|**讀取元素**|依序、隨機|依序|
+|**讀取元素**|依序 ( Sequential access )<br />隨機 (　Random access )|依序 ( Sequential access )|
+|**讀取**|O(1)|O(n)|
+|**插入**|O(n)|O(n) + O(1)|
+|**刪除**|O(n)|O(n) + O(1)|
+##### **O(n) : 線性時間<br />O(1) : 常數時間**
 ---
 ## 了解陣列的 index ( 索引 )
-編號從<font color="red"> 0 </font>開始
+   - 編號從<font color="red"> 0 </font>開始
+   - 每個元素的位置稱為索引 ( index )
+   - 
