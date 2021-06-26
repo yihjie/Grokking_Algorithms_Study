@@ -9,10 +9,10 @@
 |01 - Binary Search <br/>　　(二元搜尋法)||2021/06/26|2021/06/26|:tada::clap:|
 ||01. Binary Search|2021/06/26|2021/06/26|:smiley:|
 ||02. Big O notation|2021/06/26|2021/06/26|:smiley:|
-|02 - Selection Sort <br/>　　(選擇排序法)||2021/06/26||:writing_hand:|
+|02 - Selection Sort <br/>　　(選擇排序法)||2021/06/26||:tada::clap:|
 ||01. 記憶體是如何運作的呢?|2021/06/26|2021/06/26|:smiley:|
 ||02. Array & Linked List|2021/06/26|2021/06/26|:smiley:|
-||03. Selection Sort|2021/06/26||:smiley:|
+||03. Selection Sort|2021/06/26|2021/06/26|:smiley:|
 |03 - Recursion<br/>　　(遞迴)|||||
 ||01. Recursion||||
 ||02. Base Case & Recursive Case||||
