@@ -46,7 +46,23 @@
     5. NULL
 ---
 ### Call Stack and Recursion
--
+- 03_factorial.py
+
+      def fact(x):
+          if x == 1:
+              return 1
+          else:
+              return x * fact(x - 1)
+      
+      print(fact(3))
+
+#### Call Stack
+- 雖然使用 Stack 很方便，但這是要付出代價的
+  - 很佔記憶體空間 → Stack Overflow ( 堆疊溢位 )
+  - 改善方式
+    - 將程式碼以迴圈的方式改寫
+    - 使用尾端遞迴 ( tail recursion ) : <font color="red">並非所有程式語言都支援</font>
+  
 
     
      

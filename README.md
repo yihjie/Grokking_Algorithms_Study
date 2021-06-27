@@ -13,12 +13,12 @@
 ||01. 記憶體是如何運作的呢?|2021/06/26|2021/06/26|:smiley:|
 ||02. Array & Linked List|2021/06/26|2021/06/26|:smiley:|
 ||03. Selection Sort|2021/06/26|2021/06/26|:smiley:|
-|03 - Recursion<br/>　　(遞迴)||2021/06/27||:writing_hand:|
+|03 - Recursion<br/>　　(遞迴)||2021/06/27|2021/06/27|:tada::clap:|
 ||01. Recursion|2021/06/27|2021/06/27|:smiley:|
 ||02. Base Case & Recursive Case|2021/06/27|2021/06/27|:smiley:|
-||03. Stack|2021/06/27||:smiley:|
-|04 - Divide-and-Conquer & Quicksort|||||
-||01. Divide-and-Conquer (D&C)||||
+||03. Stack|2021/06/27|2021/06/27|:smiley:|
+|04 - Divide-and-Conquer & Quicksort||2021/06/27||:writing_hand:|
+||01. Divide-and-Conquer (D&C)|2021/06/27||:smiley:|
 ||02. Quicksort||||
 ||03. Big O notation 的執行時間||||
 |05 - Hash table<br/>　　(雜湊表)|||||
