@@ -17,12 +17,12 @@
 ||01. Recursion|2021/06/27|2021/06/27|:smiley:|
 ||02. Base Case & Recursive Case|2021/06/27|2021/06/27|:smiley:|
 ||03. Stack|2021/06/27|2021/06/27|:smiley:|
-|04 - Divide-and-Conquer & Quicksort||2021/06/27||:writing_hand:|
+|04 - Divide-and-Conquer & Quicksort||2021/06/27|2021/06/28|:tada::clap:|
 ||01. Divide-and-Conquer (D&C)|2021/06/27|2021/06/28|:smiley:|
-||02. Quicksort|2021/06/28||:smiley:|
-||03. Big O notation 的執行時間||||
-|05 - Hash table<br/>　　(雜湊表)|||||
-||01. Hash Function & Hash Table||||
+||02. Quicksort|2021/06/28|2021/06/28|:smiley:|
+||03. Big O notation 的執行時間|2021/06/28|2021/06/28|:smiley:|
+|05 - Hash table<br/>　　(雜湊表)||2021/06/28||:writing_hand:|
+||01. Hash Function & Hash Table|2021/06/28||:smiley:|
 ||02. Hash Table 應用||||
 ||03. Collision||||
 ||04. Performance||||
