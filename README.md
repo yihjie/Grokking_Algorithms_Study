@@ -23,9 +23,9 @@
 ||03. Big O notation 的執行時間|2021/06/28|2021/06/28|:smiley:|
 |05 - Hash table<br/>　　(雜湊表)||2021/06/28||:writing_hand:|
 ||01. Hash Function & Hash Table|2021/06/28|2021/06/29|:smiley:|
-||02. Hash Table 應用|2021/06/29||:smiley:|
-||03. Collision||||
-||04. Performance||||
+||02. Hash Table 應用|2021/06/29|2021/07/12|:smiley:|
+||03. Collision|2021/07/12|2021/07/12|:smiley:|
+||04. Performance|2021/07/12||:smiley:|
 |06 - Breadth-First Search<br/>　　(廣度優先搜尋)||||||
 ||01. 認識「圖形」||||
 ||02. Shortest-Path Problem||||
